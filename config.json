@@ -1,0 +1,36 @@
+{
+    "home": {
+        "tiles": {
+            "0": {
+                "type": "text",
+                "content": "${titleS}Welcome to Dashium.${titleH}${enter}V1.0${enter}${centerS}Tai Tetsuyuki${centerH}",
+                "display": "radius center border"
+            },
+            "1": {
+                "type": "text",
+                "content": "comment",
+                "display": "center"
+            },
+            "2": {
+                "type": "text",
+                "content": "ça",
+                "display": "center"
+            },
+            "3": {
+                "type": "text",
+                "content": "va",
+                "display": "center"
+            },
+            "4": {
+                "type": "text",
+                "content": "?",
+                "display": "center"
+            },
+            "40": {
+                "type": "module",
+                "content": "",
+                "display": "center"
+            }
+        }
+    }
+}

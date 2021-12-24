@@ -1,0 +1,9 @@
+body{
+    --pri: #010A26;
+    --sec: #011640;
+    --tri: #2469A6;
+    --qua: #566573;
+    --fou: #BACDD9;
+
+    --box_shadow: 0 0 #0000, 0 0 #0000, 0 20px 30px -16px rgba(9, 9, 16, .2) !important
+}
