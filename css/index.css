@@ -43,3 +43,24 @@ body .elements .element.radius{
 body .elements .element.border{
     border: var(--qua) 2px solid;
 }
+
+
+
+
+
+
+@media(max-width:300px){
+
+body .elements{
+    position: absolute;
+    top: 1%;
+    left: 1%;
+    width: 98%;
+    height: 98%;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 100px;
+    grid-gap: 20px;
+}
+}
