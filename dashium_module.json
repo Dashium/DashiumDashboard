@@ -1,5 +1,5 @@
 {
-    "name": "Dashium Dashium",
+    "name": "Dashium Dashboard",
     "require": {
         "DashiumWebServer": "https://github.com/Dashium/DashiumWebServer"
     }
