@@ -1,0 +1,6 @@
+{
+    "name": "Dashium Dashium",
+    "require": {
+        "DashiumWebServer": "https://github.com/Dashium/DashiumWebServer"
+    }
+}
