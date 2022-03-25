@@ -1,0 +1,33 @@
+body{
+    background: #121212;
+}
+body .tabs{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 10%;
+    background-color: red;
+}
+body .tabs .tab{
+    position: relative;
+    height: 5%;
+    width: 100%;
+    background-color: blue;
+    border-radius: 0 100px 100px 0;
+    border: 1px solid white;
+    cursor: pointer;
+    transform: translate(-50%);
+    transition: 0.5s;
+}
+body .tabs .tab p{
+    text-align: center;
+    transform: translate(20%);
+    transition: 0.5s;
+}
+body .tabs .tab:hover,
+body .tabs .tab.active,
+body .tabs .tab.active p,
+body .tabs .tab:hover p{
+    transform: translate(0%);
+}
